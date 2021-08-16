@@ -1,0 +1,2 @@
+C:\Разработка\Проекты\CircularBuffer\Debug\CircularBuffer.exe
+C:\Разработка\Проекты\CircularBuffer\Debug\CircularBuffer.pdb

@@ -1,0 +1,9 @@
+﻿  CircularBuffer.cpp
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(127,1): error C2143: syntax error: missing ')' before ';'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(127,1): error C2143: syntax error: missing ']' before ')'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(127,1): error C2143: syntax error: missing ';' before ')'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(127,1): error C2059: syntax error: ')'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(127,1): error C2059: syntax error: ']'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(134,42): warning C4552: '-': result of expression not used
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(140,31): error C2059: syntax error: ';'
+C:\Разработка\Проекты\CircularBuffer\CircularBuffer.cpp(140,1): error C2059: syntax error: ']'
